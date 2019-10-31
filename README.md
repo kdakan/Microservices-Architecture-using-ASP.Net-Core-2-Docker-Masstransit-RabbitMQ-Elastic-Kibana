@@ -181,3 +181,8 @@ This tutorial covers Microservices Architecture with an example implementation u
 ## 10.5 Using Sonarqube for code metric analysis
 - 
 - 
+
+## 11. Example Solution
+- 
+- 
+
