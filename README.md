@@ -1,6 +1,8 @@
 # Microservices Architecture using ASP.Net Core 2, Docker, Masstransit, RabbitMQ, Elastic, and Kibana
 This tutorial covers Microservices Architecture with an example implementation using ASP.Net Core 2, Docker, Masstransit, RabbitMQ, Elastic, and Kibana.
 
+TODO: complete the tutorial document and the solution code
+
 ## 1. Microservices Design and Topology
 -
 - 
