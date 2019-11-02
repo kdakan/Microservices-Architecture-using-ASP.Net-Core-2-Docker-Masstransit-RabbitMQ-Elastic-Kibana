@@ -3,7 +3,7 @@ This tutorial covers Microservices Architecture with an example implementation u
 
 TODO: complete the tutorial document and the solution code
 
-## 1. Microservices Design and Topology
+## 1. Microservices Design, Topology, and Best Practices
 -
 - 
 
@@ -11,31 +11,31 @@ TODO: complete the tutorial document and the solution code
 - 
 - 
 
-### 1.2 Domain and service boundaries
+### 1.2 Domain and Service Boundaries
 - 
 - 
 
-### 1.3 Call chain optimization
+### 1.3 Service Call Chain Optimization
 - 
 - 
 
-### 1.4 Request response vs. Fire and forget
+### 1.4 Request/Response vs. Fire and Forget Services
 - 
 - 
 
-## 2. Microservices Communication with Http, Protocol buffers, and RabbitMQ
+## 2. Microservices Communication with Http, Protocol Buffers, and RabbitMQ
 - 
 - 
 
-### 2.1 Using Http with Json
+### 2.1 Using Http with Json and Gzip Compression
 - 
 - 
 
-### 2.2 Using Http with Protocol buffers
+### 2.2 Using Http with Protocol Buffers
 - 
 - 
 
-### 2.3 Using queues
+### 2.3 Using Queues
 - 
 - 
 
@@ -43,11 +43,11 @@ TODO: complete the tutorial document and the solution code
 -
 - 
 
-## 3. Resiliancy and Fault Tolerance
+## 3. Resiliency and Fault Tolerance
 - 
 - 
 
-### 3.1 Transient failures
+### 3.1 Transient Failures
 - 
 - 
 
@@ -55,15 +55,15 @@ TODO: complete the tutorial document and the solution code
 - 
 - 
 
-### 3.3 Circuit Breaker pattern
+### 3.3 Circuit Breaker Pattern
 - 
 - 
 
-### 3.4 Using Redis and RabbitMQ for critical operations
+### 3.4 Using Redis and RabbitMQ for Critical Operations
 - 
 - 
 
-### 3.5 Load balancing with RabbitMQ
+### 3.5 Load Balancing with RabbitMQ
 - 
 - 
 
@@ -71,19 +71,19 @@ TODO: complete the tutorial document and the solution code
 - 
 - 
 
-### 4.1 Docker containers
+### 4.1 Docker Containers
 - 
 - 
 
-### 4.2 Docker networking
+### 4.2 Docker Networking
 - 
 - 
 
-### 4.3 Docker Compose and service discovery
+### 4.3 Docker Compose and Service Discovery
 - 
 - 
 
-### 4.4 Service orchestration and load balancing with Kubernetes
+### 4.4 Service Orchestration and Load Balancing with Kubernetes
 - 
 - 
 
@@ -107,7 +107,7 @@ TODO: complete the tutorial document and the solution code
 - 
 - 
 
-### 6.2 Correlating service calls and log entries
+### 6.2 Correlating Log Entries
 - 
 - 
 
@@ -115,11 +115,11 @@ TODO: complete the tutorial document and the solution code
 - 
 - 
 
-### 7.1 Feature based code organization
+### 7.1 Feature Based Code Organization
 - 
 - 
 
-### 7.2 Layers and managing dependencies
+### 7.2 Layers and Managing Dependencies
 - 
 - 
 
@@ -127,7 +127,7 @@ TODO: complete the tutorial document and the solution code
 - 
 - 
 
-## 8. Organizing Business logic with DDD and CQRS
+## 8. Organizing Business Logic with DDD and CQRS
 - 
 - 
 
@@ -143,13 +143,13 @@ TODO: complete the tutorial document and the solution code
 - 
 - 
 
-## 9 Unit testing and Integration testing
+## 9 Unit Testing and Integration Testing
 
-### 9.1. Testable code
+### 9.1. Testable Code
 - 
 - 
 
-### 9.2. Unit testing with NUnit and XUnit
+### 9.2. Unit Testing Best Practices with NUnit and XUnit
 - 
 - 
 
@@ -157,7 +157,11 @@ TODO: complete the tutorial document and the solution code
 - 
 - 
 
-### 9.4 Integratiın testing
+### 9.4 Integration Testing
+- 
+- 
+
+### 9.5 Manual Testing and Documenting Apis with Swagger
 - 
 - 
 
@@ -165,26 +169,26 @@ TODO: complete the tutorial document and the solution code
 - 
 - 
 
-## 10.1 Continuous Integration pipeline
+## 10.1 Continuous Integration Pipeline
 - 
 - 
 
-## 10.2 Git branching strategies
+## 10.2 Git Branching Strategies
 - 
 - 
-## 10.3 Using Bitbucket for repo and Code reviews
-- 
-- 
-
-## 10.4 Using Jenkins for build and deploymnt
+## 10.3 Using Bitbucket and Code Reviews
 - 
 - 
 
-## 10.5 Using Sonarqube for code metric analysis
+## 10.4 Using Jenkins for Automated Builds and Deploymnt
 - 
 - 
 
-## 11. Example Solution
+## 10.5 Using SonarQube for Code Metrics Analysis
+- 
+- 
+
+## 11. Example Solution Code
 - 
 - 
 
